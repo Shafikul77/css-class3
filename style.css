@@ -626,7 +626,7 @@ height: 280px;
 
     .footeritem{
     
-        width: 150px;
+        width: 225px;
 
 
 
@@ -642,7 +642,24 @@ height: 280px;
 
     .footeritem{
     
-        width: 145px;
+        width: 220px;
+
+
+
+
+ }
+
+
+
+}
+
+@media screen and (max-width: 440px){
+
+
+
+    .footeritem{
+    
+        width: 500px;
 
 
 
